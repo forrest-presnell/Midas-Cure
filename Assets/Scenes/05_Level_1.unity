@@ -204,6 +204,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crate
       objectReference: {fileID: 0}
+    - target: {fileID: 4277725293880325877, guid: 38b4c599f748f7c429bf902fa8ffd104, type: 3}
+      propertyPath: m_Constraints
+      value: 112
+      objectReference: {fileID: 0}
     - target: {fileID: 4277725293880325881, guid: 38b4c599f748f7c429bf902fa8ffd104, type: 3}
       propertyPath: m_RootOrder
       value: 5

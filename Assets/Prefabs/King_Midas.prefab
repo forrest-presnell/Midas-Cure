@@ -319,6 +319,7 @@ GameObject:
   - component: {fileID: 6055653578533829386}
   - component: {fileID: 1629379859869422813}
   - component: {fileID: 9098325776675906650}
+  - component: {fileID: -8890325817890320870}
   m_Layer: 0
   m_Name: King_Midas
   m_TagString: Untagged
@@ -379,7 +380,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 116
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!65 &9098325776675906650
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -393,6 +394,20 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.5404084, y: 0.9165327, z: 0.2873478}
   m_Center: {x: 0.0015883248, y: -0.29953808, z: 0.0051965714}
+--- !u!136 &-8890325817890320870
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4985914708471579198}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 0
+  m_Radius: 0.31062818
+  m_Height: 1
+  m_Direction: 1
+  m_Center: {x: 0, y: -0.2995381, z: 0.005196571}
 --- !u!1 &5831817191361738503
 GameObject:
   m_ObjectHideFlags: 0

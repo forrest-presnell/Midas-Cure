@@ -165,9 +165,9 @@ MonoBehaviour:
 
 
     King Midas can turn objects into
-    gold. It''s both a gift and a curse. Midas has a pair of gold-infused gloves
-    that you can toggle on/off by pressing ''G''. When his gloves are off, anything
-    he touches will turn to gold.'
+    gold (including walls). This is both a gift and a curse. Midas has a pair of
+    gold-infused gloves that you can toggle on/off by pressing ''G''. When his gloves
+    are off, anything he touches will turn to gold.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
